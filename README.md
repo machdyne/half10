@@ -10,6 +10,8 @@ This repo contains 3D-printable models for 10" racks. The models can be printed 
 
 It currently contains a 4x compute-bay for the [Klinge](https://github.com/machdyne/klinge) FPGA computer, allowing up to 8 computers in a 10" 1U rack space.
 
+There is are also parts for printing a stand-alone Half10 2U rack.
+
 ## License
 
 The contents of this repo are released under the [Lone Dynamics Open License](LICENSE.md).
